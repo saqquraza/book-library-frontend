@@ -1,0 +1,20 @@
+.mobile-data-card {
+  box-shadow: 0px 2px 10px #dddddd;
+  margin-bottom: 10px !important;
+}
+  p {
+    margin: 0 !important;
+  }
+
+  .ant-card-body {
+    gap: 8px !important;
+    margin: 0px 0 !important;
+    padding: 13px !important;
+  }
+  .mobile-label{
+    color: #841A80;
+    text-decoration: underline;
+    cursor: pointer;
+    font-size: 15px;
+  }
+

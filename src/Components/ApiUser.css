@@ -1,0 +1,7 @@
+.api-user-detail{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    width: 100%;
+  }

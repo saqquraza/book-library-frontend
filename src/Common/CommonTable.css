@@ -1,0 +1,18 @@
+.odd-row {
+    background-color: #edf6ff;
+    vertical-align: middle;
+   
+    font-size: 13px;
+  }
+  
+  .even-row {
+    background-color: bisque;
+    vertical-align: middle;
+   
+    font-size: 13px;
+  }
+
+  .ant-table-wrapper .ant-table-thead >tr>th{
+    /* border-start-end-radius: 2px; */
+    background-color: #c2c5d4 ;
+  }
